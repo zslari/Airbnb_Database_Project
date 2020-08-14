@@ -1,11 +1,3 @@
-""" This program first asks the user for their name, and then welcomes
-them to CS 3A. The program then displays a menu on a loop for the user
-to choose from and displays a message based on user input. The loop ends
-when user quits. Currency conversion has been implemented. Headers have
-been added. Reads a data set and provides cross table statistics. Option
-1-7 functionality has been added. Option 8 loads data from a .CSV File.
-"""
-
 from enum import Enum
 import csv
 
