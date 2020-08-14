@@ -1,6 +1,6 @@
 # Airbnb Database Project
 
-(runs with AB_NYC_2019 dataset)
+Runs with AB_NYC_2019 dataset
 
 This program first asks the user for their name, and then welcomes
 them and asks the user for their native currency.
