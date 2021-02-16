@@ -1,5 +1,6 @@
 # Airbnb Database Project
 
+
 Runs with AB_NYC_2019.CSV dataset
 
 This program mimics an interface and menu with a database to navigate and filter rent prices on AirBnb using Object Oriented Design principles.
@@ -9,4 +10,7 @@ and provides cross table statistics (Property Type, Location, Price) for each ho
 
 Option 1-7 functionality has been added. Option 8 loads data from a .CSV File. 
 
+## Quick Start
 
+1. Clone or download the repo
+2. Run `airbnb_DB_proj.py`
