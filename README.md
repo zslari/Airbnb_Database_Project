@@ -13,4 +13,4 @@ Option 1-7 functionality has been added. Option 8 loads data from a .CSV File.
 ## Quick Start
 
 1. Clone or download the repo
-2. Run `airbnb_DB_proj.py`
+2. Run `main.py`
